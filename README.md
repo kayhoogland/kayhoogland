@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Data Scientist / Machine Learning Engineer at [https://www.floryn.com/nl/]:Floryn B.V.
+My name is Kay, I am a Data Scientist / Machine Learning Engineer at [Floryn B.V.](https://www.floryn.com/nl/)
 
 <!--
 **kayhoogland/kayhoogland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
