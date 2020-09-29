@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Kay, I am a Data Scientist / Machine Learning Engineer at [Floryn B.V.](https://www.floryn.com/nl/)
+My name is Kay, I am a Data Scientist / Machine Learning Engineer at [Floryn B.V.](https://www.floryn.com/nl/).
+
+Below you can find my open-source contributions to [scikit-lego](https://github.com/koaning/scikit-lego) and toy projects I have been working on.
 
 <!--
 **kayhoogland/kayhoogland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
