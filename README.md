@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Kay, I am a Data Scientist / Analytics Engineer at [Floryn B.V.](https://www.floryn.com/nl/).
-Below you can find my open-source contributions to and toy projects I have been working on.
+Below you can find my open-source contributions and toy projects I have been working on.
 
 More about me on [kayhoogland.nl](https://kayhoogland.nl)
 
